@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome Jeein's github!❤ 
 
-<!--
-**jeein2222/jeein2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![KakaoTalk_20220430_133752867_05](https://user-images.githubusercontent.com/96341808/166091306-464b1675-5870-43d9-9cef-c817239fdf81.gif)
 
-Here are some ideas to get you started:
+## About me 😁 :
+_______
+!["KakaoTalk_20220430_141306601"](https://user-images.githubusercontent.com/96341808/166092219-2d6fe811-84f5-456a-bec7-0667150ae402.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech&Skill 🌎:
+______
+#### *front : html, css, javascript*
+#### *back : Spring,Django*
+##### I'm currently learning Javascript,React.js and Spring.
+##### I want to be a web engineer one day.
+
+- My instargram : https://www.instagram.com/cs_qkrwldls/
+- My tistory : ..making
