@@ -14,4 +14,4 @@ ______
 ##### I want to be a web engineer one day.
 
 - My instargram : https://www.instagram.com/cs_qkrwldls/
-- My tistory : ..making
+- My tistory : https://nothing-is-on-my-way.tistory.com/
