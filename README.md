@@ -8,10 +8,9 @@ _______
 
 ## Tech&Skill 🌎:
 ______
-#### *front : html, css, javascript*
-#### *back : Spring,Django*
-##### I'm currently learning Javascript,React.js and Spring.
-##### I want to be a web engineer one day.
+#### *front : html, css, javascript, React,js*
+#### *back : Spring, Django*
+##### I'm currently learning Django.
 
 - My instargram : https://www.instagram.com/cs_qkrwldls/
 - My tistory : https://nothing-is-on-my-way.tistory.com/
