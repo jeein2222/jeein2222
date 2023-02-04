@@ -8,9 +8,9 @@ _______
 
 ## Tech&Skill 🌎:
 ______
-#### *front : html, css, javascript, React,js*
+#### *front : html, css, javascript, React.js*
 #### *back : Spring, Django*
-##### I'm currently learning Django.
+##### I'm currently learning Spring
 
 - My instargram : https://www.instagram.com/cs_qkrwldls/
 - My tistory : https://nothing-is-on-my-way.tistory.com/
