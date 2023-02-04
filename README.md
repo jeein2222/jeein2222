@@ -4,7 +4,7 @@
 
 ## About me 😁 :
 _______
-!["KakaoTalk_20220430_141306601"](https://user-images.githubusercontent.com/96341808/166092219-2d6fe811-84f5-456a-bec7-0667150ae402.png){: width="100" height="100"}
+!["KakaoTalk_20220430_141306601"](https://user-images.githubusercontent.com/96341808/166092219-2d6fe811-84f5-456a-bec7-0667150ae402.png){: width="50%" height="50%"}
 
 ## Tech&Skill 🌎:
 ______
