@@ -1,5 +1,10 @@
 # Welcome Jeein's github!❤ 
 <img src="https://user-images.githubusercontent.com/96341808/166091306-464b1675-5870-43d9-9cef-c817239fdf81.gif" width="250" height="250"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeein2222&show_icons=true&theme=radical" width="500" height="250" />
+  
+
+
+<!-- ![Jeein's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeein2222&show_icons=true&theme=radical) -->
 
 
 ## About me 😁 :
