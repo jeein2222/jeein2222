@@ -5,7 +5,6 @@
 <!-- ![Jeein](https://user-images.githubusercontent.com/96341808/166091306-464b1675-5870-43d9-9cef-c817239fdf81.gif) -->
 
 ![Jeein's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeein2222&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeein2726)](https://solved.ac/jeein2726/)
 
 
 <!-- ![Jeein's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeein2222&show_icons=true&theme=radical) -->
