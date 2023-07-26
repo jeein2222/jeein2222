@@ -19,7 +19,7 @@ _______
 - **여행 일정 관리, 기록 서비스 (Spring Boot)** (https://github.com/codestates-seb/seb44_main_012)
 - **Stackoverflow 서비스** (https://github.com/jeein2222/seb44_preproject_006)
 - **Reivew notes for wrong code program (Spring Boot)** (https://github.com/jeein2222/DS-coder/tree/master)
-- - **Deep learning-based songwriting program (Django)** (result : https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s)
+- **Deep learning-based songwriting program (Django)** (result : https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s)
 - **Cooking recipe sharing bulletin board and food information search program (Django)** (https://github.com/jeein2222/shareYourRecipe)
 
 ## Contact ☎
