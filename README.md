@@ -12,16 +12,16 @@
 
 ## About me 😁 &  Tech&Skill 🌎
 _______
-<!-- !["KakaoTalk_20220430_141306601"](https://user-images.githubusercontent.com/96341808/166092219-2d6fe811-84f5-456a-bec7-0667150ae402.png) -->
-![github img](https://user-images.githubusercontent.com/96341808/216762788-d79de3e0-0dc8-4444-8f61-7ee16a24e5ac.JPG)
+<img width="725" alt="스크린샷 2023-07-26 오후 2 20 32" src="https://github.com/jeein2222/jeein2222/assets/96341808/16999630-f294-4f23-bc86-8b4de932f6c0">
+
 
 ## Projects🎆 
-- **Deep learning-based songwriting program (Django)** (result : https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s)
-- **Cooking recipe sharing bulletin board and food information search program (Django)** (https://github.com/jeein2222/shareYourRecipe)
+- **여행 일정 관리, 기록 서비스 (Spring Boot)** (https://github.com/codestates-seb/seb44_main_012)
+- **Stackoverflow 서비스** (https://github.com/jeein2222/seb44_preproject_006)
 - **Reivew notes for wrong code program (Spring Boot)** (https://github.com/jeein2222/DS-coder/tree/master)
-- **TodoApp (Spring Boot)** (https://github.com/jeein2222/TodoApp-backend)
+- - **Deep learning-based songwriting program (Django)** (result : https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s)
+- **Cooking recipe sharing bulletin board and food information search program (Django)** (https://github.com/jeein2222/shareYourRecipe)
 
 ## Contact ☎
-- My instargram : https://www.instagram.com/cs_qkrwldls/
 - My tistory : https://nothing-is-on-my-way.tistory.com/
-- My Email : jeein2726@naver.com
+- My Email : jiinbag057@gmail.com
