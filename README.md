@@ -18,9 +18,9 @@ _______
 ## Projects🎆 
 - **여행 일정 관리, 기록 서비스 (Spring Boot)** (https://github.com/codestates-seb/seb44_main_012)
 - **Stackoverflow 서비스** (https://github.com/jeein2222/seb44_preproject_006)
-- **Reivew notes for wrong code program (Spring Boot)** (https://github.com/jeein2222/DS-coder/tree/main)
-- **Deep learning-based songwriting program (Django)** (result : https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s)
-- **Cooking recipe sharing bulletin board and food information search program (Django)** (https://github.com/jeein2222/shareYourRecipe)
+- **SW 전공 학생들을 위한 코딩 오답노트 프로그램 (Spring Boot)** (https://github.com/jeein2222/DS-coder/tree/main)
+- **딥러닝 기반 작사, 작곡 프로그램 (Django)** (result : https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s)
+- **레시피 공유 웹 서비스 (Django)** (https://github.com/jeein2222/shareYourRecipe)
 
 ## Contact ☎
 - My tistory : https://nothing-is-on-my-way.tistory.com/
