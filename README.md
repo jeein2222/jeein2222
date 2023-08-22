@@ -7,7 +7,7 @@
 ## About me 😁 &  Tech&Skill 🌎
 _______
 
-<img width="631" alt="스크린샷 2023-08-22 오후 2 49 46" src="https://github.com/jeein2222/jeein2222/assets/96341808/98711a2b-3fce-4e50-89e7-d7a9ed27e30b">
+<img width="631" alt="스크린샷 2023-08-22 오후 2 49 46" src="https://github.com/jeein2222/jeein2222/assets/96341808/f660ac61-a942-4778-a067-88a3cfcd01d3">
 
 ## Projects🎆 
 - **Plip(Plan your trip) (Spring Boot)**
