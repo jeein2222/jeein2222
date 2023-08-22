@@ -1,16 +1,8 @@
 # Welcome to Jeein's github!
 
-“협업의 힘을 믿으며 꾸준한 자기 개발과 지식 공유로 함께 성장하기를 꿈꾸는 코더입니다.🌟” 
-
- <img src="https://user-images.githubusercontent.com/96341808/166091306-464b1675-5870-43d9-9cef-c817239fdf81.gif" width="250" height="250"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=jeein2222&show_icons=true&theme=radical" width="500" height="250" />  -->
-<!-- ![Jeein](https://user-images.githubusercontent.com/96341808/166091306-464b1675-5870-43d9-9cef-c817239fdf81.gif) -->
+**“협업의 힘을 믿으며 꾸준한 자기 개발과 지식 공유로 함께 성장하기를 꿈꾸는 코더입니다.🌟”** 
 
 ![Jeein's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeein2222&show_icons=true&theme=radical)
-
-
-<!-- ![Jeein's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeein2222&show_icons=true&theme=radical) -->
-
 
 ## About me 😁 &  Tech&Skill 🌎
 _______
