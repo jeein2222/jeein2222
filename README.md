@@ -6,15 +6,31 @@
 
 ## About me 😁 &  Tech&Skill 🌎
 _______
-<img width="725" alt="스크린샷 2023-07-26 오후 2 20 32" src="https://github.com/jeein2222/jeein2222/assets/96341808/16999630-f294-4f23-bc86-8b4de932f6c0">
+**name**😊: **박지인(Jeein Park)**
 
+**tech skills** ⚒️:
+
+- **Backend : Java, Spring Boot, Spring Framework, MySQL**
+- **Version Control : git, GitHub**
+- **Deployment :  AWS**
+- **Communication : Jira, Confluence, Figma, Notion**
+
+**certificate📃 : SQLD , TOEIC**
+
+**motto🌟** : **The best way to predict the future is to invent it!**
 
 ## Projects🎆 
-- **여행 일정 관리, 기록 서비스 (Spring Boot)** (https://github.com/codestates-seb/seb44_main_012)
-- **Stackoverflow 서비스** (https://github.com/jeein2222/seb44_preproject_006)
-- **SW 전공 학생들을 위한 코딩 오답노트 프로그램 (Spring Boot)** (https://github.com/jeein2222/DS-coder/tree/main)
-- **딥러닝 기반 작사, 작곡 프로그램 (Django)** (result : https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s)
-- **레시피 공유 웹 서비스 (Django)** (https://github.com/jeein2222/shareYourRecipe)
+- **여행 일정 관리, 기록 서비스 (Spring Boot)**
+  (https://github.com/codestates-seb/seb44_main_012)
+- **Stackoverflow 서비스**
+  (https://github.com/jeein2222/seb44_preproject_006)
+- **SW 전공 학생들을 위한 코딩 오답노트 프로그램 (Spring Boot)** 
+  (https://github.com/jeein2222/DS-coder/tree/main)
+- **딥러닝 기반 작사, 작곡 프로그램 (Django)**
+  (https://github.com/jeein2222/meta4music_final)
+  (youtube : https://www.youtube.com/watch?v=-0EPXT0xlYw&t=3s)
+- **레시피 공유 웹 서비스 (Django)**
+  (https://github.com/jeein2222/shareYourRecipe)
 
 ## Contact ☎
 - My tistory : https://nothing-is-on-my-way.tistory.com/
