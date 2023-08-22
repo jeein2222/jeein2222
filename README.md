@@ -8,7 +8,7 @@
 
 
 ## Projects🎆 
-- **Plip(Plan your trip) (Spring Boot)**
+- **Plip(Plan your trip) 서비스(Spring Boot)**
   (https://github.com/codestates-seb/seb44_main_012)
   - 여행 일정 관리 및 여행 일지 기록 서비스
     
