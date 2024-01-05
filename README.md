@@ -2,7 +2,7 @@
 
 **“협업의 힘을 믿으며 꾸준한 자기 개발과 지식 공유로 함께 성장하기를 꿈꾸는 코더입니다.🌟”** 
 
-이력서 👉 https://drive.google.com/file/d/1aB7eZCkat0Og9HsnqiH6S8yhORX5pvJ2/view?usp=sharing 
+이력서 👉 https://drive.google.com/file/d/160YtubdPxnJOJeKiWQCT3M609pDFsV6E/view?usp=sharing 
 
 ## About me 😁 &  Tech&Skill 🌎
 
