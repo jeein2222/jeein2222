@@ -2,6 +2,8 @@
 
 **“협업의 힘을 믿으며 꾸준한 자기 개발과 지식 공유로 함께 성장하기를 꿈꾸는 코더입니다.🌟”** 
 
+이력서 👉 https://drive.google.com/file/d/1aB7eZCkat0Og9HsnqiH6S8yhORX5pvJ2/view?usp=sharing 
+
 ## About me 😁 &  Tech&Skill 🌎
 
 <img width="631" alt="스크린샷 2023-08-22 오후 2 49 46" src="https://github.com/jeein2222/jeein2222/assets/96341808/f660ac61-a942-4778-a067-88a3cfcd01d3">
