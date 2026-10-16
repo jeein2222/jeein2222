@@ -1,8 +1,8 @@
 # Welcome to Jeein's github!
 
-**“협업의 힘을 믿으며 꾸준한 자기 개발과 지식 공유로 함께 성장하기를 꿈꾸는 코더입니다.🌟”** 
+**“개발 경험과 QA 역량을 바탕으로 제품의 신뢰성을 높이는 QA 엔지니어 입니다.🌟”** 
 
-이력서 👉 https://drive.google.com/file/d/160YtubdPxnJOJeKiWQCT3M609pDFsV6E/view?usp=sharing 
+이력서 👉 [https://drive.google.com/file/d/160YtubdPxnJOJeKiWQCT3M609pDFsV6E/view?usp=sharing ](https://drive.google.com/file/d/16jEE-ScXxoF_VBe1otgTGGm573wbFbHL/view?usp=sharing)
 
 ## About me 😁 &  Tech&Skill 🌎
 
@@ -10,6 +10,9 @@
 
 
 ## Projects🎆 
+- **Playwright를 활용한 TC 자동화**
+  (https://github.com/jeein2222/playwright-qa-automation)
+
 - **Plip(Plan your trip) 서비스(Spring Boot)**
   (https://github.com/jeein2222/plip)
   - 여행 일정 관리 및 여행 일지 기록 서비스
