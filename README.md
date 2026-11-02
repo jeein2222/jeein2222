@@ -10,10 +10,10 @@
 
 
 ## Projects🎆 
-- **Playwright를 활용한 TC 자동화**
+- **Playwright 기반 웹 UI 및 REST API 테스트 자동화**
   (https://github.com/jeein2222/playwright-qa-automation)
   <br/>
-  notion: https://app.notion.com/p/nothingisonmyway/Playwright-API-407e0adec994809b9bb0c7260373402e
+  **notion**: https://app.notion.com/p/nothingisonmyway/Playwright-API-407e0adec994809b9bb0c7260373402e
 
 - **Plip(Plan your trip) 서비스(Spring Boot)**
   (https://github.com/jeein2222/plip)
